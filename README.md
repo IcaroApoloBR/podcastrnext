@@ -80,4 +80,4 @@ Made with ❤️ by Ícaro Apolo.
 ## :memo: License
 
 Copyright © 2020 [Ícaro Apolo](https://github.com/IcaroApoloBR).<br />
-This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
+This project is [MIT](./LICENSE) licensed.
