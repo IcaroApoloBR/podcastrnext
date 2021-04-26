@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./.github/logo.svg" alt="Podcastr" width="450px"/>
+  <img src="./github/logo.svg" alt="Podcastr" width="450px"/>
   <br />
 <h2 align="center">
   <br>Next Level Week #5 by @Rocketseat <br/>
@@ -18,6 +18,8 @@
   <a href="#man-Author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-License">License</a>
 </p>
+
+<img src="./github/podcastr.svg" />
 
 ## :page_facing_up: Description
 A platform built for podcast broadcasting. 
