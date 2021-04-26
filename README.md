@@ -1,10 +1,8 @@
 <h1 align="center">
   <img src="./github/logo.svg" alt="Podcastr" width="450px"/>
-  <br />
-<h2 align="center">
-  <br>Next Level Week #5 by @Rocketseat <br/>
-</h2>
+  <h2 align="center">Next Level Week #5</h2>
 </h1>
+
 <p align="center">
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
@@ -75,10 +73,9 @@ $ yarn dev
 
 Made with ❤️ by Ícaro Apolo.
 <br />
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IcaroApoloBR)](https://github.com/IcaroApoloBR)
- <br />
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaroapolo
-)](https://www.linkedin.com/in/icaroapolo)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IcaroApoloBR)](https://github.com/IcaroApoloBR)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaroapolo)](https://www.linkedin.com/in/icaroapolo)
+<br />
 
 ## :memo: License
 
